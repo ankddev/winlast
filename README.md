@@ -17,7 +17,7 @@ PowerShell script with simple TUI to tweak your Windows 10/11 installation. It i
 
 Just run following in elevvated PowerShell:
 ```powershell
-irm https://github.com/ankddev/winlast/blob/main/winlast.ps1 | iex
+irm https://github.com/ankddev/winlast/raw/main/winlast.ps1 | iex
 ```
 If you see errors aboutrunning permission - review your permission settings, apply them and run command again.
 
